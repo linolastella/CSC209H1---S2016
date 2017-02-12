@@ -70,7 +70,7 @@ char *copystr(const char *s) { /* make a duplicate of s */
 	char *p;
 	int len = strlen(s);
 
-	p = (char *) malloc(len+1); /* +1 for ’\0’ */
+	p = (char *) malloc(len+1); /* +1 for â€™\0â€™ */
 	if (p != NULL)
 		strncpy(p, s, len);
 	p[len] = '\0';
