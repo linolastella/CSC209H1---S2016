@@ -10,3 +10,5 @@ A2 -> source code and header files of game, game_hash_table, dictionary, board_g
 A3 -> phist.h and phist.c
 
 A4 -> same files as A2 plus server.h and server.c
+
+Instructor: [Marina Barsky](http://www.teach.cs.toronto.edu/~mgbarsky/)
